@@ -1,8 +1,8 @@
 {
- "v": 6,
+ "v": 7,
  "shell": 1,
- "file": "game-6.gz",
- "sha256": "a801ad246bc54c423f3719da8f1c90f6b13107ee294a9247130cd406ea922918",
- "sig": "ZlnXqBC90jUtKSjHC/pgdwOaDHRlyM/8yzVo39UD/ngX9sX5Vhfu/2gPYRlazCDFPeTsAUK5goO+kHgmIhLqKRz5NzoPZCJUJ9PgQbUR4Fp2P3tLDMQzGWiKCNIkP1ULfIfnzgB4TdfJDQAPJLZwoJqM27Crtcp+2y55daes7HAMOxtWTAlNIQoMzQQU11+6RqEU3oSRHCzkBt/ZrCzES0jENHvgZQpUnNKH8lKcSx4diOJQNXTLHjUCk6eM29NwO7Mp08rHNRnSeniwwouvMkd9064BE4cAGwZTKLfD5Qxn9TfuqCO6ElsR1JhJs8376mkV+kddg0BgPURt3A/wNA==",
- "notes": "G and H rotate what you hold, scroll wheel zooms while holding"
+ "file": "game-7.gz",
+ "sha256": "cdf9598706c5c7101d5cb0bd0cb67311d713e72bdd4a1d04a4a0b7727b07e094",
+ "sig": "KrsN/BC3ZWEQNB2M7UWNRG2ozwAanE/nZqkHpgBsBXZEOI8PVJpUGsvgazJ5Ymfa02I5MTrJcz0tWGJ9skczrY/6wTO5iXAdsACjrvEZ//9hyKF6ynGbkFrapVQ1tzxFebWfalC3sWovOjaeXRHlimaQS7uTmgC++oM/lygI/j+9fHXkUduUsHrLUOuUMFbGkmcM6tJdEdpk7yND/4Gy4a+PIIuivzZnSLMqR5mX700mYAcJHUD8iIwyct2NBcCGkUXWUQvzPCR6/uG1yNJAGQceITAfGhQj8Pm2I38J6owj2MO7KioCJX5tldEyiItiDO94tUh2k9R8yo35s6eNdw==",
+ "notes": "Stands, devils, 70+ syringes, 150 new items, ride in vehicles, better outlines"
 }

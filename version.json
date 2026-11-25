@@ -1,0 +1,8 @@
+{
+ "v": 4,
+ "shell": 1,
+ "file": "game-4.gz",
+ "sha256": "fcf4d5f78abe2e3a41c36813d2d88ef7301328c9d8fc50aab03bbe4b5f25d649",
+ "sig": "CJha45WqMmNjw8LG7zZr73BWY21nKY8SN9qtYIf97vN5mGuwd8VK/2Lq/pxjA7ngthN60mzaKozZcwlmhh4hkcfvQB+sL7Vcl3f38a7nYSCLiff104KtTTyq6jCYq48BplHQZR5rtD+6SYc6q3osdIUo4+FolX7e6ZVZkzurF3HcJTpSXuwWJgk7N/5U79n7nDfb2lqGriNiyTYQz4kXGIAQ5eTlSh0WyJoWhOf3JzniKOYVp2UB3AEkIiWqtFMa2d0hbvkcei9V8BNHuyHpKhXE09IE52HafjpgMrubQCzBhbGQ5sa3ulLXOuKFyffOVdxuakEYzFAII4TeErC1EQ==",
+ "notes": "Ability maker, auto updates"
+}

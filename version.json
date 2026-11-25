@@ -1,8 +1,8 @@
 {
- "v": 5,
+ "v": 6,
  "shell": 1,
- "file": "game-5.gz",
- "sha256": "e6b82469603ba474aed091ba2378b8102fac2fe50a1d53af58bfbf8545fd315a",
- "sig": "LculeO49JzsSfCdbY7I1zNseGXEznrSJvcCWX/T8p7NUucn5dBN1WyYSsCqwxLck53DeoIQsC38iToXvbqqv2gL1a6e6ftUHhhbr5GNcIBStA1gVRxCtkr1E+28hR2AAAT2yaLehK966V8r1uxTf9ItBILKp0yabZi5G9lrCeK1npeYd8VVNKArtnmHyvv2lRXOUXIvS8WqDpcM7t18aD9sixZfa/2V5ktsUxZd8Af78RulKjBrDAp7hvvR+E59lOU+NHirecmhyAW2zuWyvzYfe4d8rxMij+HmAj9RvOp6vrCsYNyb9TzXT88sc2+uiMBKYld6gcE51qkKKJcZmjw==",
- "notes": "Arrow keys move the camera, bigger buttons on large screens"
+ "file": "game-6.gz",
+ "sha256": "a801ad246bc54c423f3719da8f1c90f6b13107ee294a9247130cd406ea922918",
+ "sig": "ZlnXqBC90jUtKSjHC/pgdwOaDHRlyM/8yzVo39UD/ngX9sX5Vhfu/2gPYRlazCDFPeTsAUK5goO+kHgmIhLqKRz5NzoPZCJUJ9PgQbUR4Fp2P3tLDMQzGWiKCNIkP1ULfIfnzgB4TdfJDQAPJLZwoJqM27Crtcp+2y55daes7HAMOxtWTAlNIQoMzQQU11+6RqEU3oSRHCzkBt/ZrCzES0jENHvgZQpUnNKH8lKcSx4diOJQNXTLHjUCk6eM29NwO7Mp08rHNRnSeniwwouvMkd9064BE4cAGwZTKLfD5Qxn9TfuqCO6ElsR1JhJs8376mkV+kddg0BgPURt3A/wNA==",
+ "notes": "G and H rotate what you hold, scroll wheel zooms while holding"
 }
